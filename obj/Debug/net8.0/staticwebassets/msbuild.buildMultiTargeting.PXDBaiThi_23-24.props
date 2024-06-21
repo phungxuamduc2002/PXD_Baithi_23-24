@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PXDBaiThi_23-24.props" />
+</Project>
